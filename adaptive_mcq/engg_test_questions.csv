@@ -1,0 +1,21 @@
+id,question,answer,difficulty
+1,Which is not an engineering branch? a) Civil b) Economics c) Electrical d) Mechanical,b,0.4
+2,Who is considered the father of civil engineering? a) Isaac Newton b) Imhotep c) Aristotle d) Archimedes,b,0.6
+3,What does CAD stand for? a) Computer Aided Design b) Computer Advanced Data c) Creative Art Design d) Computerized Art Drawing,a,0.5
+4,Which is an electrical engineering example? a) Batteries b) Power grid c) Dams d) HVAC,b,0.3
+5,Tensile strength measures a) Weight b) Hardness c) Ability to stretch d) Ability to withstand stretching ,d,0.5
+6,"In a PID controller, P stands for: a) Proportional b) Parallel c) Power d) Pressure",a,0.7
+7,Which welding uses electricity to bond metal? a) Laser b) Arc c) Gas d) Spot,b,0.4
+8,Which bridge has cables supporting the deck? a) Beam b) Arch c) Suspension d) Truss,c,0.6
+9,Hooke's law describes a: a) Stress-strain relationship b) Thermal equation c) Gas law d) Motion principle,a,0.8
+10,"Which uses degrees, minutes, seconds? a) Temperature b) Speed c) Latitude/longitude d) Angles",c,0.5
+11,Which bearing allows rotational motion? a) Linear b) Ball c) Roller d) Thrust,b,0.6
+12,Who developed the three laws of motion? a) Newton b) Einstein c) Tesla d) Bernoulli,a,0.4
+13,What is frequency measured in? a) Watts b) Hertz c) Joules d) Amperes,b,0.5
+14,A calorimeter measures: a) Heat b) Motion c) Thermal energy d) Temperature,c,0.7
+15,What scale is absolute zero based on? a) Fahrenheit b) Celsius c) Rankine d) Kelvin,d,0.6
+16,Solar panels generate: a) Alternating current b) Direct current c) Voltage d) Wattage,b,0.5
+17,What is the unit of capacitance? a) Henry b) Watt c) Farad d) Ohm,c,0.6
+18,Which increases with gas temperature? a) Volume b) Pressure c) Density d) Viscosity,b,0.7
+19,What resists motion between surfaces? a) Inertia b) Gravity c) Friction d) Acceleration,c,0.3
+20,The study of flight is: a) Aerodynamics b) Thermodynamics c) Electrodynamics d) Chemical dynamics,a,0.5
